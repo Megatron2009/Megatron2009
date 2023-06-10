@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Megatron2009
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Google or Supercell
+- 💞️ I’m looking to collaborate on Google or Nintendo
 - 📫 How to reach me ...
 
 <!---
